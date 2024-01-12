@@ -177,6 +177,7 @@ img {
       opacity: 100%;
       background-color: yellow;
       border-color: black;
+      clip-path: polygon(0 0, 100% 0%, 100% 100%, 40% 100%, 23% 54%)
       
     }
   /* show 2*/
@@ -336,6 +337,7 @@ img {
     animation-duration: 7s;
     /*  */
     animation-name: showp5;
+    
   
     
   }
@@ -347,6 +349,7 @@ img {
       opacity: 100%;
       background-color: yellow;
       border-style: black;
+      clip-path: polygon(0% 0%, 65% 0, 82% 50%, 100% 99%, 0% 100%);
       
     }
   /* show 5 */
@@ -404,6 +407,7 @@ img {
       opacity: 100%;
       background-color: yellow;
       border-style: black;
+      clip-path: polygon(36% 0, 100% 0%, 100% 100%, 0 100%, 20% 45%);
       
     }
   /* show 6 */
